@@ -1,0 +1,69 @@
+﻿1>------ Rebuild All started: Project: SMS, Configuration: Debug Any CPU ------
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\BackupAndRestoreDatabase.cs(34,30,34,32): warning CS0168: The variable 'ex' is declared but never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\BackupAndRestoreDatabase.cs(68,30,68,32): warning CS0168: The variable 'ex' is declared but never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmCustomer.cs(207,30,207,32): warning CS0168: The variable 'ex' is declared but never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmOrder.cs(189,29,189,35): warning CS0219: The variable 'Repeat' is assigned but its value is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmOrder.cs(283,29,283,35): warning CS0219: The variable 'Repeat' is assigned but its value is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintCashMemo.cs(294,21,294,27): warning CS0219: The variable 'Amount' is assigned but its value is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintToken.cs(289,21,289,27): warning CS0219: The variable 'Amount' is assigned but its value is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintInvoice.cs(288,21,288,27): warning CS0219: The variable 'Amount' is assigned but its value is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(47,25,47,33): warning CS0169: The field 'PrintToken.SubTotal' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintInvoice.cs(46,24,46,36): warning CS0169: The field 'frmPrintInvoice.CustomerCity' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintCashMemo.cs(49,25,49,36): warning CS0649: Field 'frmPrintCashMemo.SaleFreight' is never assigned to, and will always have its default value 0
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(61,21,61,38): warning CS0169: The field 'PrintToken.InvSubTitleHeight' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(49,22,49,33): warning CS0169: The field 'PrintToken.ReadInvoice' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintInvoice.cs(50,25,50,36): warning CS0649: Field 'frmPrintInvoice.SaleFreight' is never assigned to, and will always have its default value 0
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintToken.cs(52,25,52,37): warning CS0649: Field 'frmPrintToken.InvoiceTotal' is never assigned to, and will always have its default value 0
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(25,24,25,36): warning CS0169: The field 'PrintToken.InvSubTitle1' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintCashMemo.cs(50,25,50,33): warning CS0649: Field 'frmPrintCashMemo.SubTotal' is never assigned to, and will always have its default value 0
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(20,55,20,66): warning CS0169: The field 'PrintToken.prnDocument' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintInvoice.cs(47,24,47,34): warning CS0169: The field 'frmPrintInvoice.SellerName' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(24,24,24,32): warning CS0169: The field 'PrintToken.InvTitle' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(37,21,37,33): warning CS0169: The field 'PrintToken.InvoiceWidth' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintCashMemo.cs(48,24,48,32): warning CS0169: The field 'frmPrintCashMemo.SaleDate' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintCashMemo.cs(47,24,47,30): warning CS0169: The field 'frmPrintCashMemo.SaleID' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(41,24,41,31): warning CS0169: The field 'PrintToken.OrderNo' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(16,16,16,26): warning CS0169: The field 'PrintToken.ConnString' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(38,21,38,34): warning CS0169: The field 'PrintToken.InvoiceHeight' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintInvoice.cs(48,24,48,30): warning CS0169: The field 'frmPrintInvoice.SaleID' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintToken.cs(51,25,51,33): warning CS0649: Field 'frmPrintToken.SubTotal' is never assigned to, and will always have its default value 0
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(32,21,32,29): warning CS0169: The field 'PrintToken.CurrentX' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(42,24,42,36): warning CS0169: The field 'PrintToken.CustomerCity' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(48,25,48,37): warning CS0169: The field 'PrintToken.InvoiceTotal' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(39,24,39,36): warning CS0169: The field 'PrintToken.CustomerName' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintToken.cs(29,24,29,32): warning CS0649: Field 'frmPrintToken.InvImage' is never assigned to, and will always have its default value null
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintInvoice.cs(45,24,45,34): warning CS0649: Field 'frmPrintInvoice.TerminalID' is never assigned to, and will always have its default value null
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintToken.cs(47,24,47,36): warning CS0169: The field 'frmPrintToken.CustomerCity' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintToken.cs(50,25,50,36): warning CS0649: Field 'frmPrintToken.SaleFreight' is never assigned to, and will always have its default value 0
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(45,24,45,32): warning CS0169: The field 'PrintToken.SaleDate' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(36,21,36,33): warning CS0169: The field 'PrintToken.bottomMargin' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(46,25,46,36): warning CS0169: The field 'PrintToken.SaleFreight' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(50,21,50,35): warning CS0169: The field 'PrintToken.AmountPosition' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(34,21,34,32): warning CS0169: The field 'PrintToken.rightMargin' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintToken.cs(48,24,48,30): warning CS0169: The field 'frmPrintToken.SaleID' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintCashMemo.cs(46,24,46,36): warning CS0169: The field 'frmPrintCashMemo.CustomerCity' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(28,24,28,32): warning CS0169: The field 'PrintToken.InvImage' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintInvoice.cs(28,24,28,32): warning CS0649: Field 'frmPrintInvoice.InvImage' is never assigned to, and will always have its default value null
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(31,21,31,29): warning CS0169: The field 'PrintToken.CurrentY' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(19,57,19,67): warning CS0169: The field 'PrintToken.prnPreview' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(66,21,66,38): warning CS0169: The field 'PrintToken.InvoiceFontHeight' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintInvoice.cs(51,25,51,33): warning CS0649: Field 'frmPrintInvoice.SubTotal' is never assigned to, and will always have its default value 0
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(33,21,33,31): warning CS0169: The field 'PrintToken.leftMargin' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(44,24,44,30): warning CS0169: The field 'PrintToken.SaleID' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintCashMemo.cs(28,24,28,32): warning CS0649: Field 'frmPrintCashMemo.InvImage' is never assigned to, and will always have its default value null
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintToken.cs(49,24,49,32): warning CS0169: The field 'frmPrintToken.SaleDate' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintInvoice.cs(52,25,52,37): warning CS0649: Field 'frmPrintInvoice.InvoiceTotal' is never assigned to, and will always have its default value 0
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(35,21,35,30): warning CS0169: The field 'PrintToken.topMargin' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(27,24,27,36): warning CS0169: The field 'PrintToken.InvSubTitle3' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(18,50,18,59): warning CS0169: The field 'PrintToken.prnDialog' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintInvoice.cs(49,24,49,32): warning CS0169: The field 'frmPrintInvoice.SaleDate' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(40,24,40,38): warning CS0169: The field 'PrintToken.CustomerGSTNNo' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(26,24,26,36): warning CS0169: The field 'PrintToken.InvSubTitle2' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(56,21,56,35): warning CS0169: The field 'PrintToken.InvTitleHeight' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(43,24,43,34): warning CS0169: The field 'PrintToken.SellerName' is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintCashMemo.cs(51,25,51,37): warning CS0649: Field 'frmPrintCashMemo.InvoiceTotal' is never assigned to, and will always have its default value 0
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\frmPrintToken.cs(22,49,22,59): warning CS0414: The field 'frmPrintToken.components' is assigned but its value is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\MDIParent1.cs(16,21,16,36): warning CS0414: The field 'MDIParent1.childFormNumber' is assigned but its value is never used
+1>E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\PrintToken.cs(21,49,21,59): warning CS0414: The field 'PrintToken.components' is assigned but its value is never used
+1>  SMS -> E:\PradeepLaptopBackup18Jan2016\Pradeep Laptop\External Project\SMS\SMS\SMS\bin\Debug\SMS.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
