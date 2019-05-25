@@ -71,6 +71,12 @@
     <Compile Include="ds_GetBulkOrderReport.cs">
       <DependentUpon>ds_GetBulkOrderReport.xsd</DependentUpon>
     </Compile>
+    <Compile Include="DummeyForm-2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DummeyForm-2.Designer.cs">
+      <DependentUpon>DummeyForm-2.cs</DependentUpon>
+    </Compile>
     <Compile Include="DummyForm.cs">
       <SubType>Form</SubType>
     </Compile>
